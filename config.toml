@@ -81,6 +81,12 @@ unsafe= true
     weight = 10
 
 [[menu.main]]
+    name = "Membership and Joining"
+    url = "info/joining"
+    parent = "Club Info"
+    weight = 15
+
+[[menu.main]]
     name = "Meetings and Location"
     url = "info/location"
     parent = "Club Info"
@@ -109,4 +115,10 @@ unsafe= true
     url = "info/honour_roll"
     parent = "Club Info"
     weight = 60
+
+[[menu.main]]
+    name = "Past Presidents"
+    url = "info/presidents"
+    parent = "Club Info"
+    weight = 70
 

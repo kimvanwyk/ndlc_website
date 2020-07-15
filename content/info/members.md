@@ -9,10 +9,10 @@ The North Durban Lions Club is fortunate to have many dedicated members:
 Lion | Current District 410E or MD410 Positions	| Previous Club Positions | Previous District 410C, 410E or MD410 Positions
 --- |--- |--- |--- |
 Neil Aubert | | | |
-Kay Erskine | | President | |
+Kay Erskine | | <ul><li>President</li></ul> | |
 Avril Hobbs | <ul><li>2021 MD Convention Secretary</li><li>DC Health</li></ul> | <ul><li>President</li><li>Secretary</li></ul> | <ul><li>District GST Coordinator</li><li>DC New Voices</li></ul> |
 Grant Hobbs | | <ul><li>Fundraising Coordinator</li></ul> | |
-Trevor Hobbs | 2021 MD Convention Convenor | <ul><li>President</li><li>Membership Chair | <ul><li>Region Chair</li><li>Second Vice District Governor</li><li>DC Centennial Projects</li><li>DC Marketing</li><li>District Newsletter Compiler</li><li>Zone Chair</li><li>DC Constitution, Resolutions and By-laws</li><li>MDC Marketing</li><li>DC Peace Poster</li><li>Mentor Lion</li><li>Guiding Lion (East Coast Lions)</li></ul> |
+Trevor Hobbs | <ul><li>2021 MD Convention Convenor</li></ul> | <ul><li>President</li><li>Membership Chair | <ul><li>Region Chair</li><li>Second Vice District Governor</li><li>DC Centennial Projects</li><li>DC Marketing</li><li>District Newsletter Compiler</li><li>Zone Chair</li><li>DC Constitution, Resolutions and By-laws</li><li>MDC Marketing</li><li>DC Peace Poster</li><li>Mentor Lion</li><li>Guiding Lion (East Coast Lions)</li></ul> |
 Shirley Johnston | | | |
 Ernst Kunfermann | | | |
 Felicia Leqela | | | |
@@ -21,7 +21,7 @@ Phil Meyer | | <ul><li>Vice President</li><li>Membership Chair</li></ul> | |
 Bill Pfaff | | | |
 Ian Ping | | <ul><li>President</li><li>Treasurer</li></ul> | <ul><li>Council Secretary</li><li>Cabinet Secretary</li><li>Zone Chair</li><li>DC Christmas Cakes</li><li>DC Finance Committee</li></ul> |
 Ivanka Reynolds | | | |
-Sheila Rice | | Secretary | |
+Sheila Rice | | <ul><li>Secretary</li></ul> | |
 Ian Ross | | | |
 Elaine Turton | | | |
 Kim van Wyk | <ul><li>2021 MD Convention Registration Secretary</li><li>Multiple District Directory Compiler</li></ul> | <ul><li>President</li><li>Secretary</li><li>Treasurer</li></ul> | <ul><li>District Governor</li><li>District Treasurer</li><li>MDC Finance Committee</li><li>DC Finance Committee</li><li>First Vice District Governor</li><li>Second Vice District Governor</li><li>Multiple District Directory Compiler</li><li>DC Food Security</li><li>Council Secretary</li><li>Zone Chair</li><li>MDC Health</li><li>DC Constitutions and Resolutions</li></ul>|

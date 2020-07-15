@@ -98,3 +98,15 @@ unsafe= true
     parent = "Club Info"
     weight = 40
 
+[[menu.main]]
+    name = "Called to Higher Service"
+    url = "info/higher_service"
+    parent = "Club Info"
+    weight = 50
+
+[[menu.main]]
+    name = "Honour Roll"
+    url = "info/honour_roll"
+    parent = "Club Info"
+    weight = 60
+

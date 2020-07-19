@@ -62,4 +62,4 @@ Over the more than 40 years that the club has served its community, many members
 
 
 † – [Called to Higher Service](/info/higher_service) \
-* – Still serving as a [club member](/info/members)
+\* – Still serving as a [club member](/info/members)

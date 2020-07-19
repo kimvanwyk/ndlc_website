@@ -31,7 +31,7 @@ The club’s Lions of the Year have been:
 * **2018-2019**: 
 
 
-* – Still serving as a [club member](/info/members)
+\* – Still serving as a [club member](/info/members)
 
 ## Melvin Jones Fellowship
 

@@ -16,4 +16,15 @@ Like most Lions clubs in South Africa, the club is very actively involved in the
 
 ## Catering
 
-The club is very practiced and well equipped to cater at indoor or outdoor events through the sale of egg & bcon rolls, chicken rolls, wors rolls and steak rolls, along with popcorn, candy-floss, colddrinks and tea & coffee.
+The club is very practiced and well equipped to cater at indoor or outdoor events through the sale of egg & bcon rolls, chicken rolls, hamburgers, wors rolls and steak rolls, along with popcorn, candy-floss, colddrinks and tea & coffee.
+
+{{< figure_align src="/img/activities/fundraising/catering/popcorn_candyfloss.jpg" alt="Lions Elaine Turton, Shirley Johnston and Trevor Hobbs selling freshly-made popcorn and candyfloss." caption="Lions Elaine Turton, Shirley Johnston and Trevor Hobbs selling freshly-made popcorn and candyfloss." align="center">}}
+
+{{< figure_align src="/img/activities/fundraising/catering/various_rolls.jpg" alt="Several Lions preparing and selling a variety of hot rolls, made fresh to order." caption="Several Lions preparing and selling a variety of hot rolls, made fresh to order." align="center">}}
+
+## Quilt Raffle
+
+The local Quilters-by-the-Sea quilters group has generously prepared a king sized quilt every year for several years, which the club is able to raffle off to raise significant funds. The club remains deeply grateful to the Quilters-by-the-Sea for their extremely generous donation.
+
+{{< figure_align src="/img/activities/fundraising/quilt/quilt.jpg" alt="Several Lions with one of the fabulous quilts." caption="Several Lions with one of the fabulous quilts." align="center">}}
+

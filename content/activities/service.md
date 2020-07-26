@@ -32,6 +32,14 @@ The club considers eye screening at primary schools to be a very important part 
 
 We also collect old spectacles from the public - donations of old spectacles are always welcomed. These old spectacles are sent to [Lions BrightSight](http://www.lionsbrightsight.co.za/ ) in Benoni, where they are recycled to provide spectacles for those in need.
 
+## Further Services to TAFTA Residents
+
+The club regularly provides a braaied burger or chicken roll for residents at one of several local TAFTA homes, which many of the residents regard as a highlight of their year. In addition the club regularly plays bingo with TAFTA residents.
+
+{{< figure_align src="/img/activities/service/tafta_catering/tafta_catering_braaiing.jpg" alt="Lions Trevor Hobbs, Kim van Wyk, Vicki van Wyk and Neil Aubert braaiing food to treat the TAFTA residents." caption="Lions Trevor Hobbs, Kim van Wyk, Vicki van Wyk and Neil Aubert braaiing food to treat the TAFTA residents." align="center">}}
+
+{{< figure_align src="/img/activities/service/tafta_catering/tafta_catering_service.jpg" alt="Lions Sheila Rice and Shirley Johnston serving a braaied meal to TAFTA residents." caption="Lions Sheila Rice and Shirley Johnston serving a braaied meal to TAFTA residents." align="center">}}
+
 ## Golden Hours School
 Golden Hours is a school for children with intellectual disabilities. The North Durban Lions have had a long relationship with the school, and have made many contributions to the school over the years. For many years the club operated a weekly fundraising stall at the market which the school arranges every Sunday.
 

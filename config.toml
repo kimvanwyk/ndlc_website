@@ -84,7 +84,13 @@ unsafe= true
     name = "Community Service"
     url = "activities/service"
     parent = "Club Activities"
-    weight = 50
+    weight = 10
+
+[[menu.main]]
+    name = "Fundraising"
+    url = "activities/fundraising"
+    parent = "Club Activities"
+    weight = 20
 
 [[menu.main]]
     name = "Club Info"

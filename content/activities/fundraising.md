@@ -12,7 +12,7 @@ It is important to note that the proceeds of any fundraising activity by any Lio
 
 ## Christmas Cakes
 
-Like most Lions clubs in South Africa, the club is very actively involved in the sale of Lions Christmas Cakes. These delicious 1kg alcohol-free cakes are baked by th Corner Bakery and are always good value. All the proceeds from the sale of the Christmas cakes goes directly to serve the community, as with all Lions fundraising efforts.
+Like most Lions clubs in South Africa, the club is very actively involved in the sale of Lions Christmas Cakes. These delicious 1kg alcohol-free cakes are baked by the Corner Bakery and are always good value. All the proceeds from the sale of the Christmas Cakes goes directly to serve the community, as with all Lions fundraising efforts.
 
 ## Catering
 

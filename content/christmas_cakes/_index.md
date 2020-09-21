@@ -16,7 +16,7 @@ If you’re not in Durban North/La Lucia/Umhlanga or the surrounding areas, your
 
 # Christmas Cakes Enquiry Form
 
-<form name="christmas_cakes" method="POST" data-netlify="true">
+<form name="christmas_cakes" method="POST" data-netlify="true" action="/christmas_cakes_thanks">
   <input type='hidden' name='form-name' value='christmas_cakes' />
   <div class="form-group row">
     <label for="name" class="col-sm-4 col-form-label">

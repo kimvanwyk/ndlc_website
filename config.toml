@@ -71,6 +71,11 @@ unsafe= true
 
 [menu]
 [[menu.main]]
+    name = "Christmas Cakes"
+    url = "christmas_cakes"
+    weight = 10
+
+[[menu.main]]
     name = "Club Activities"
     weight = 50
 

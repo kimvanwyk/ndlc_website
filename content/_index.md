@@ -4,7 +4,6 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-### [Click here for details on the 2020 Lions Christmas cakes](christmas_cakes)
 ### [Click here for details on the club's quilt raffle](quilt_raffle)
 
 <hr>

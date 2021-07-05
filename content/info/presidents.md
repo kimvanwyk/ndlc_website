@@ -59,6 +59,7 @@ Over the more than 40 years that the club has served its community, many members
 * **2017-2018**: Avril Hobbs (*)
 * **2018-2019**: Avril Hobbs (*)
 * **2019-2020**: Kim van Wyk (*)
+* **2020-2021**: Kim van Wyk (*)
 
 
 † – [Called to Higher Service](/info/higher_service) \

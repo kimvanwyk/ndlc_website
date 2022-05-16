@@ -4,7 +4,7 @@ date: 2019-07-14T16:19:07+02:00
 draft: false
 ---
 
-The club meets on the fourth Thursday of each month at 19.30. We meet at our clubhouse, on the corner of Uitsig and Prospect Hall Roads, Durban North.
+The club meets on the third Saturday of each month at 14.30. We meet at our clubhouse, on the corner of Uitsig and Prospect Hall Roads, Durban North.
 
 <p>
 <p>

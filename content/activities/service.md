@@ -13,7 +13,7 @@ Below are descriptions of the club's current major projects. In addition to thes
 ## Food Project
 Every month, members of the club collect food from the public at several local supermarkets. Collections are done at the Crescent Pick ‘n Pay on the first or last Saturday morning of every month. In addition, Lion Phil Meyer collects at the Kensington Square Spar several times every month. The club gratefully thanks all the supermarkets and shopping centres which allow us to do our collections.
 
-For each collection, the public are asked to donate non-perishable food. All the collected food is stored by the club, and used to make up food parcels. Every month more than 120 single-person parcels  are made up. Several larger family sized parcels are also made up. This is the contents of a typical parcel:
+For each collection, the public are asked to donate non-perishable food. All the collected food is stored by the club, and used to make up food parcels. Every month more than 120 single-person parcels  are made up. Several larger family sized parcels are also made up.
 
 {{< figure_align src="/img/activities/service/food/food_parcel_contents.jpg" alt="A typical food parcel, including rice, sugar, maize meal, tinned meat, tinned veg, tinned fish, pasta, tea and baked beans" caption="A typical food parcel, including rice, sugar, maize meal, tinned meat, tinned veg, tinned fish, pasta, tea and baked beans" align="center">}}
  \

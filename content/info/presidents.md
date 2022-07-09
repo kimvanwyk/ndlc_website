@@ -43,23 +43,24 @@ Over the more than 40 years that the club has served its community, many members
 * **2001-2002**: Kay Erskine (*)
 * **2002-2003**: Maria Stowe
 * **2003-2004**: Pieter Moolman
-* **2004-2005**: Ian Ping (*)
+* **2004-2005**: Ian Ping
 * **2005-2006**: Keith Wilson (†)
 * **2006-2007**: John Wyngaard
 * **2007-2008**: Trevor Hobbs (*)
 * **2008-2009**: Denise Bolland
 * **2009-2010**: Dave Evans
-* **2010-2011**: Ian Ping (*)
+* **2010-2011**: Ian Ping
 * **2011-2012**: Kim van Wyk (*)
 * **2012-2013**: Kim van Wyk (*)
 * **2013-2014**: Vicki van Wyk (*)
 * **2014-2015**: Trevor Hobbs (*)
 * **2015-2016**: Vicki van Wyk (*)
-* **2016-2017**: Ian Ping (*)
+* **2016-2017**: Ian Ping
 * **2017-2018**: Avril Hobbs (*)
 * **2018-2019**: Avril Hobbs (*)
 * **2019-2020**: Kim van Wyk (*)
 * **2020-2021**: Kim van Wyk (*)
+* **2021-2022**: Avril Hobbs (*)
 
 
 † – [Called to Higher Service](/info/higher_service) \

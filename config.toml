@@ -71,11 +71,6 @@ unsafe= true
 
 [menu]
 [[menu.main]]
-    name = "Quilt Raffle"
-    url = "quilt_raffle"
-    weight = 11
-
-[[menu.main]]
     name = "Club Activities"
     weight = 50
 

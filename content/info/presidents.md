@@ -13,13 +13,13 @@ Over the more than 40 years that the club has served its community, many members
 * **1971-1972**: Norman Sayer (†)
 * **1972-1973**: Gavin Rennie (†)
 * **1973-1974**: Gavin Rennie (†)
-* **1974-1975**: Fred Weller (*)
+* **1974-1975**: Fred Weller
 * **1975-1976**: Bill Wright (†)
 * **1976-1977**: Eugene Quin (†)
 * **1977-1978**: Brian Meyer
 * **1978-1979**: Mike Newlands
 * **1979-1980**: Ralph Lewis (†)
-* **1980-1981**: Fred Weller (*)
+* **1980-1981**: Fred Weller
 * **1981-1982**: Ollie Wilkins (†)
 * **1982-1983**: Des Tee (†)
 * **1983-1984**: Sid Bardwell (†)
@@ -31,7 +31,7 @@ Over the more than 40 years that the club has served its community, many members
 * **1989-1990**: Trevor Hobbs (*)
 * **1990-1991**: Trevor Hobbs (*)
 * **1991-1992**: Brian Margerison (†)
-* **1992-1993**: Fred Weller (*)
+* **1992-1993**: Fred Weller
 * **1993-1994**: John Chapple
 * **1994-1995**: Vic Norris
 * **1995-1996**: Bill Wright (†)

@@ -17,7 +17,7 @@ Over the more than 40 years that the club has served its community, many members
 * **1975-1976**: Bill Wright (†)
 * **1976-1977**: Eugene Quin (†)
 * **1977-1978**: Brian Meyer
-* **1978-1979**: Mike Newlands
+* **1978-1979**: Mike Newlands (†)
 * **1979-1980**: Ralph Lewis (†)
 * **1980-1981**: Fred Weller
 * **1981-1982**: Ollie Wilkins (†)

@@ -16,8 +16,8 @@ The club’s Lions of the Year have been:
 * **2003-2004**: Denise Bolland
 * **2004-2005**: Ann Lyne
 * **2005-2006**: Jane McCarthy
-* **2006-2007**: Rob McMorran (*)
-* **2007-2008**: Ian Ping (*)
+* **2006-2007**: Rob McMorran
+* **2007-2008**: Ian Ping
 * **2008-2009**: Trevor Hobbs (*)
 * **2009-2010**: Phil Meyer (*)
 * **2010-2011**: Vicki van Wyk (*)
@@ -26,9 +26,7 @@ The club’s Lions of the Year have been:
 * **2013-2014**: Margo Whitmore and Jimmy Hollows
 * **2014-2015**: Phil Meyer (*)
 * **2015-2016**: Elaine Turton (*)
-* **2016-2017**: 
-* **2017-2018**: 
-* **2018-2019**: 
+* **2022-2023**: Jill Brummer (*)
 
 
 \* – Still serving as a [club member](/info/members)
@@ -42,16 +40,16 @@ On several occasions, members who have rendered outstanding service have been ma
 | Melvin Jones Fellow | Year of becoming a Melvin Jones Fellow | Notes                                                        |
 |---------------------|----------------------------------------|--------------------------------------------------------------|
 |                     |                                        |                                                              |
-| Fred Weller (*)     | 1982                                   |                                                              |
+| Fred Weller         | 1982                                   |                                                              |
 | Ann Weller          | 1982                                   | Partner in Service of Lion Fred Weller                       |
-| Mike Newlands       | 1983                                   |                                                              |
+| Mike Newlands (†)   | 1983                                   |                                                              |
 | Sydney Bardwell (†) | 1991                                   |                                                              |
-| Ian Ping (*)        | 1993                                   | While a member of the Morningside club                       |
+| Ian Ping            | 1993                                   | While a member of the Morningside club                       |
 | Neil Aubert (*)     | 1993                                   | While a member of the Morningside club                       |
 | Bill Wright (†)     | 1993                                   |                                                              |
 | Joaquina Henning    | 2008                                   | While a member of the Phalaborwa club                        |
 | Trevor Hobbs (*)    | 2011                                   |                                                              |
-| Ian Ross (*)        | 2012                                   |                                                              |
+| Ian Ross (†)        | 2012                                   |                                                              |
 | Kim van Wyk (*)     | 2017                                   | Presented by District 410C for services as District Governor |
 
 † – [Called to Higher Service](/info/higher_service) \

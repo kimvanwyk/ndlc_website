@@ -26,7 +26,7 @@ The club’s Lions of the Year have been:
 * **2013-2014**: Margo Whitmore and Jimmy Hollows
 * **2014-2015**: Phil Meyer (*)
 * **2015-2016**: Elaine Turton (*)
-* **2022-2023**: Jill Brummer (*)
+* **2022-2023**: Jill Brummer
 
 
 \* – Still serving as a [club member](/info/members)

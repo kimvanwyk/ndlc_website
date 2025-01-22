@@ -62,6 +62,7 @@ Over the more than 40 years that the club has served its community, many members
 * **2020-2021**: Kim van Wyk (*)
 * **2021-2022**: Avril Hobbs (*)
 * **2022-2023**: Avril Hobbs (*)
+* **2023-2024**: Belinda Blakeman (*)
 
 
 † – [Called to Higher Service](/info/higher_service) \

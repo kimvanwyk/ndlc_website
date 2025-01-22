@@ -10,6 +10,8 @@ The North Durban Lions Club honours its members who have laid down to rest and w
 
 | Member                             | Called to Higher Service in | Years of service to others as a Lion |
 |------------------------------------|-----------------------------|--------------------------------------|
+| Past District Governor Fred Weller | 2024                        | 40+                                  |
+| Lion Ian Ross                      | 2023                        | 40+                                  |
 | Lion Malcolm "Nick" Nicholas       | 2016                        | 5                                    |
 | Lion Keith Wilson                  | 2012                        | 17                                   |
 | Lion Ann Lyne                      | 2012                        |                                      |

@@ -8,9 +8,8 @@ The Lions year is from July to June. The club officers for the 2023/2024 Lionist
 
 | Position         | Lion             | Email                                                  |
 |------------------|------------------|--------------------------------------------------------|
-| President        | Belinda Blakeman | {{< cloakemail "president@northdurbanlions.org.za" >}} |
-| Secretary        | Grant Hobbs      | {{< cloakemail "info@northdurbanlions.org.za" >}}      |
-| Treasurer        | Kim van Wyk      | {{< cloakemail "info@northdurbanlions.org.za" >}}      |
-| Membership Chair | Melody Verbaan   | {{< cloakemail "info@northdurbanlions.org.za" >}}      |
-| Service Chair    | Jill Brummer     | {{< cloakemail "info@northdurbanlions.org.za" >}}      |
+| President        | Belinda Blakeman | {{< cloakemail "northdurbanlionsclub@gmail.com" >}} |
+| Secretary        | Grant Hobbs      | {{< cloakemail "northdurbanlionsclub@gmail.com" >}}      |
+| Treasurer        | Kim van Wyk      | {{< cloakemail "northdurbanlionsclub@gmail.com" >}}      |
+| Membership Chair | Melody Verbaan   | {{< cloakemail "northdurbanlionsclub@gmail.com" >}}      |
 
